@@ -1,0 +1,30 @@
+name,quadrant,ring,isNew,description
+Container security scanning,Techniques,Adopt,TRUE,<p>This is a sample technique and used for simple display purposes</p>
+Apache Flink,Platforms,Explore,TRUE,<p>This is a sample platform and used for simple display purposes</p>
+AI (Auto Integrator),Tools,Adopt,TRUE,<p>Custom devolped application allowing fast integration </p>
+Asset bank,Tools,Adopt,TRUE,"<p>Asset Bank is digital asset management solution that can be deployed either on-premise or in the cloud. ... Asset Bank enables users to share and manage digital assets such as videos, logos, images and documents.</p>"
+Azure devops,Tools,Explore,TRUE,"<p>Azure DevOps Server is a Microsoft product that provides version control, reporting, requirements management, project management, automated builds, lab management, testing and release management capabilities. It covers the entire application lifecycle, and enables DevOps capabilities</p>"
+Crush FTP,Tools,Explore,TRUE,"<p>CrushFTP is a proprietary multi-protocol, multi-platform file transfer server originally developed in 1999. CrushFTP is shareware with a tiered pricing model. It is targeted at home users on up to enterprise users</p>"
+Remedy / Assist,Tools,Adopt,TRUE,<p>Ticketing system used to log through requests for work</p>
+Okta,Tools,Adopt,TRUE,"<p>It provides cloud software that helps companies manage and secure user authentication into modern applications, and for developers to build identity controls into applications, website web services and devices</p>"
+Citrix - Internal,Tools,Explore,TRUE,<p>Citrix solution for office usage</p>
+Citrix - Site,Tools,Adopt,TRUE,<p>Citrix solution to access production site for administration and management</p>
+DGC ClientHub,Tools,Explore,TRUE,<p>Needs entry</p>
+Showcase,Tools,Adopt,TRUE,<p>A custom built wbe portal which pseduos as a live website which enable interactively testing when link is provided. Easy to use management and administration for showcasing product</p>
+Digit,Tools,Explore,TRUE,"<p>GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration/continuous deployment pipeline features, using an open-source license, developed by GitLab Inc.</p>"
+Elastic Search,Tools,Adopt,TRUE,"<p>ES provides a data store for much of the logging and metrics. Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java</p>"
+Epic Clone Tool,Tools,Endure,TRUE,<p>A custom developed tool which takes the data from PIE and implements them onto databases</p>
+GITHub,Tools,Explore,TRUE,"<p>GitHub, Inc. is a United States-based global company that provides hosting for software development version control using Git. It is a subsidiary of Microsoft, which acquired the company in 2018 for US$7.5 billion.</p>"
+Jira,Tools,Explore,TRUE,<p>Jira is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management</p>
+Octopus,Tools,Explore,TRUE,"<p>Octopus Deploy is an automated deployment and release management server. It is designed to simplify deployment of ASP.NET applications, Windows Services and databases.</p>"
+Office 365,Tools,Adopt,TRUE,<p>Office 365 is a line of subscription services offered by Microsoft as part of the Microsoft Office product line.</p>
+Pie (Perfect Input Experience),Tools,Explore,TRUE,<p>A custom built application to automate the majority of the SQL build functions</p>
+Royal Ts,Tools,Explore,TRUE,"<p>Royal TS provides powerful, easy and secure access to your remote systems. It's the perfect tool for server admins, system engineers, developers and IT focused information workers who constantly need to access remote systems with different protocols (like RDP, VNC, SSH, HTTP/S, and many more.).</p>"
+Skype,Tools,Endure,TRUE,"<p>Skype is a telecommunications application that specializes in providing video chat and voice calls between computers, tablets, mobile devices, the Xbox One console, and smartwatches over the Internet. Skype also provides instant messaging services. Users may transmit text, video, audio and imagesmber of security tactics such as protection against cold boot attacks, avoiding interference with garbage collection and fortifying with guard pages to reduce the likelihood of sensitive data being exposed.</p>"
+Skype For Business,Tools,Retire,TRUE,<p>Skype for business was the predecssor of Microsoft Teams and the spirutal successor to the business version of Skype. It is no longer recommended for use</p>
+Teams,Tools,Adopt,TRUE,<p>Microsoft Teams is the defacto standard used in the Office 365 suite. It is the communications tool of choice when dealing with the primary supplier</p>
+Slack,Tools,Explore,TRUE,<p>Slack is proposed to be the external communication tool of choice when dealing with customers due to its versatility. Slack is a proprietary business communication platform developed by Slack Technologies. </p>
+Star Leaf,Tools,Explore,TRUE,"<p>StarLeaf is a UK-based company that provides voice and video conferencing systems for conference rooms and desktops, and software clients for mobile users.</p>"
+Trello,Tools,Explore,TRUE,"<p>Trello is a web-based Kanban-style list-making application which is a subsidiary of Atlassian. Originally made by Fog Creek Software in 2011, it was spun out to form the basis of a separate company in 2014 and later sold to Atlassian in January 2017. The company is based in New York City. </p>"
+We transfer,Tools,Explore,TRUE,"<p>WeTransfer is a Dutch internet-based computer file transfer service. The company was founded in Amsterdam by Bas Beerens and Nalden. The core service is free, with more features available for premium accounts.</p>"
+Flutter,languages-and-frameworks,Explore,TRUE,<p>This is a sample language and used for simple display purposes</p>
