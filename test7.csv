@@ -1,6 +1,7 @@
 name,quadrant,ring,isNew,description
 Container security scanning,Techniques,Adopt,TRUE,<p>This is a sample technique and used for simple display purposes</p>
-Apache Flink,Platforms,Explore,TRUE,<p>This is a sample platform and used for simple display purposes</p>
+Private Cloud,Platforms,Explore,TRUE,<p>Explore private cloud options per jurdiscation</p>
+Public Cloud,Platforms,Explore,TRUE,<p>Explore public cloud options per jurdiscation</p>
 AI (Auto Integrator),Tools,Adopt,TRUE,<p>Custom devolped application allowing fast integration </p>
 AssetBank / Clienthub,Tools,Adopt,TRUE,"<p>Asset Bank is digital asset management solution that can be deployed either on-premise or in the cloud. ... Asset Bank enables users to share and manage digital assets such as videos, logos, images and documents.</p>"
 Azure devops,Tools,Explore,TRUE,"<p>Azure DevOps Server is a Microsoft product that provides version control, reporting, requirements management, project management, automated builds, lab management, testing and release management capabilities. It covers the entire application lifecycle, and enables DevOps capabilities</p>"
