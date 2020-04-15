@@ -2,14 +2,13 @@ name,quadrant,ring,isNew,description
 Container security scanning,Techniques,Adopt,TRUE,<p>This is a sample technique and used for simple display purposes</p>
 Apache Flink,Platforms,Explore,TRUE,<p>This is a sample platform and used for simple display purposes</p>
 AI (Auto Integrator),Tools,Adopt,TRUE,<p>Custom devolped application allowing fast integration </p>
-Asset bank,Tools,Adopt,TRUE,"<p>Asset Bank is digital asset management solution that can be deployed either on-premise or in the cloud. ... Asset Bank enables users to share and manage digital assets such as videos, logos, images and documents.</p>"
+AssetBank / Clienthub,Tools,Adopt,TRUE,"<p>Asset Bank is digital asset management solution that can be deployed either on-premise or in the cloud. ... Asset Bank enables users to share and manage digital assets such as videos, logos, images and documents.</p>"
 Azure devops,Tools,Explore,TRUE,"<p>Azure DevOps Server is a Microsoft product that provides version control, reporting, requirements management, project management, automated builds, lab management, testing and release management capabilities. It covers the entire application lifecycle, and enables DevOps capabilities</p>"
 Crush FTP,Tools,Explore,TRUE,"<p>CrushFTP is a proprietary multi-protocol, multi-platform file transfer server originally developed in 1999. CrushFTP is shareware with a tiered pricing model. It is targeted at home users on up to enterprise users</p>"
 Remedy / Assist,Tools,Adopt,TRUE,<p>Ticketing system used to log through requests for work</p>
 Okta,Tools,Adopt,TRUE,"<p>It provides cloud software that helps companies manage and secure user authentication into modern applications, and for developers to build identity controls into applications, website web services and devices</p>"
 Citrix - Internal,Tools,Explore,TRUE,<p>Citrix solution for office usage</p>
 Citrix - Site,Tools,Adopt,TRUE,<p>Citrix solution to access production site for administration and management</p>
-DGC ClientHub,Tools,Explore,TRUE,<p>Needs entry</p>
 Showcase,Tools,Adopt,TRUE,<p>A custom built wbe portal which pseduos as a live website which enable interactively testing when link is provided. Easy to use management and administration for showcasing product</p>
 Digit,Tools,Explore,TRUE,"<p>GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration/continuous deployment pipeline features, using an open-source license, developed by GitLab Inc.</p>"
 Elastic Search,Tools,Adopt,TRUE,"<p>ES provides a data store for much of the logging and metrics. Elasticsearch is a search engine based on the Lucene library. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java</p>"
